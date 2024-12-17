@@ -1,0 +1,20 @@
+{
+  "bumpFiles": [
+    "package.json"
+  ],
+  "types": [
+    { "type": "feat", "section": "Features" },
+    { "type": "feat!", "section": "Breaking Changes" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "fix!", "section": "Breaking Changes" },
+    { "type": "chore", "hidden": true },
+    { "type": "docs", "hidden": true },
+    { "type": "style", "hidden": true },
+    { "type": "refactor", "hidden": true },
+    { "type": "refactor!", "section": "Breaking Changes" },
+    { "type": "revert", "hidden": true },
+    { "type": "perf", "hidden": true },
+    { "type": "perf!", "section": "Breaking Changes" },
+    { "type": "test", "hidden": true }
+  ]
+}
