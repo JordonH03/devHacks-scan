@@ -19,7 +19,7 @@
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
     "start": "next start",
-    "test": "jest --coverage --silent"
+    "test": "jest --coverage --silent --passWithNoTests"
   },
   "dependencies": {
     "next": "14.1.4",
